@@ -1,0 +1,3 @@
+[deps]
+BikeStats = "75db2300-42a8-46f7-8b80-20893ea0987d"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"

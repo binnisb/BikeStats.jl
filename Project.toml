@@ -1,0 +1,7 @@
+name = "BikeStats"
+uuid = "75db2300-42a8-46f7-8b80-20893ea0987d"
+authors = ["Brynjar Smári Bjarnason <binni@binnisb.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1.5"
